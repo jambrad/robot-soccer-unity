@@ -1,0 +1,6 @@
+[submodule "Assets/FuzzyGeneticLibrary"]
+	path = Assets/FuzzyGeneticLibrary
+	url = https://github.com/jkmtumulak516/fe-thesis-library
+[submodule "Robot Soccer/Assets/FuzzyGeneticLibrary"]
+	path = Robot Soccer/Assets/FuzzyGeneticLibrary
+	url = https://github.com/jkmtumulak516/fe-thesis-library
